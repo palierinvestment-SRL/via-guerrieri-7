@@ -1,0 +1,5 @@
+# Testo normalizzato a LF nel repository: e' quello che si aspettano
+# i server web e GitHub Pages. Le immagini restano binarie e intatte.
+* text=auto eol=lf
+*.jpg binary
+*.png binary
