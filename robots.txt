@@ -1,4 +1,7 @@
+# Contenuto trasferito su https://www.palieriinvestment.com/immobili/via-guerrieri-7
+# La pagina resta accessibile per non rompere i link gia' condivisi, ma non va indicizzata:
+# l'originale ora e' sul sito principale (vedi rel=canonical in index.html).
 User-agent: *
 Allow: /
 
-Sitemap: https://palierinvestment-srl.github.io/via-guerrieri-7/sitemap.xml
+Sitemap: https://www.palieriinvestment.com/sitemap.xml

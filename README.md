@@ -1,4 +1,15 @@
-# Via Guerrieri 7 — pagina di vendita
+# Via Guerrieri 7 — pagina trasferita
+
+> **Questa pagina non e' piu' il contenuto vivo.**
+> La scheda dell'immobile e' stata assorbita nel sito principale:
+> https://www.palieriinvestment.com/immobili/via-guerrieri-7
+>
+> `index.html` ora e' solo un redirect (canonical + meta refresh + JS: GitHub Pages
+> non permette un 301 vero). I testi originali sono nella storia git, al commit 56b76e8,
+> e sono stati riversati in `src/lib/guerrieri-content.ts` del repo del sito.
+> Aggiornare prezzi o capitolato **qui non ha piu' effetto**: si aggiorna sul sito.
+
+---
 
 Pagina singola per la vendita del trilocale con terrazzo di Via Matteo Luigi Guerrieri 7,
 Immacolata, Foggia. Palieri Investment S.r.l.
